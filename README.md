@@ -17,7 +17,7 @@ python3 -m pip install -r requirements.txt
 ```
 
 # Running the notebook
-After dependencies installed and demo file downloaded open the notebook and run the cells
+After dependencies installed and demo file downloaded open launch a jupyter notebook from the working directy and run the cells
 ```
 python3 -m notebook
 ```
